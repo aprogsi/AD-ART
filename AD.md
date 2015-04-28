@@ -58,6 +58,7 @@ Asosiasi ini menyadarkan bahwa Programmer adalah juga sebuah progesi. Tidak memb
 2. APROGSI berlandaskan:
 
     a. Undang-Undang Dasar 1945 sebagai landasan konstitusional.
+    
     b. Anggaran Dasar dan Anggaran Rumah Tangga APROGSI sebagai landasan operasional.
     
 3. APROGSI tidak berpolitik, tidak berafiliasi dengan golongan atau partai politik tertentu, dan bersifat tidak mencari keuntungan material (nirlaba).
@@ -66,16 +67,22 @@ Asosiasi ini menyadarkan bahwa Programmer adalah juga sebuah progesi. Tidak memb
 
 1. APROGSI mempunyai misi:
 
-	a. Mendukung dan mengembangankan Insan Programmer di Indonesia 
+	a. Mendukung dan mengembangankan Insan Programmer di Indonesia
+	 
     b. Mengelola Sumber Daya (Anggota) untuk kesejahteraan masyarakat  Indonesia dan atau pemerintah Indonesia.
+    
     c. Meningkatkan potensi sumber daya manusia dalam bidang teknologi terutama Open Source.
 
 2. APROGSI mempunyai tujuan:
 
     a. Membantu para anggota dalam menyediakan produk dan jasa-nya  yang berkualitas bagi masyarakat Indonesia.
+    
     b. Meningkatkan Citra Anggota dalam menunjang pengembangan sumber daya manusia di Indonesia.
+    
     c. Mendukung terciptanya peluang bisnis pengusaha Indonesia melalui penyediaan sarana informasi dan komunikasi global.
+    
     d. Membantu pemerintah dalam usaha pemerataan ekonomi di tanah air melalui kesempatan akses terhadap informasi dan komunikasi secara merata di seluruh pelosok Indonesia.
+    
     e. Meningkatkan partisipasi masyarakat Indonesia dalam kerjasama Internasional.
 
 ### PASAL 4 - TUGAS-TUGAS POKOK APROGSI
@@ -100,6 +107,7 @@ Anggota APROGSI terdiri atas:
 1. Anggota Reguler, yang terdiri dari Anggota Organisasi dan Anggota Perorangan
 
    a. Yang dimaksud dengan Anggota Organisasi adalah perusahaan/yayasan/badan/koperasi/institusi/kelompok/paguyuban yang memiliki legalitas yang sah sebagaimana diatur dalam peraturan dan Undang-Undang Republik Indonesia.
+   
    b. Yang dimaksud dengan Anggota Perorangan adalah Pribadi/perorangan warganegara Indonesia dan warganegara asing yang berdomisili di Indonesia
 
 2. Anggota Kehormatan (khusus)
@@ -140,25 +148,37 @@ Setiap Anggota dapat berhenti dan/atau diberhentikan menjadi anggota:
 1. Perangkat APROGSI terdiri dari:
 
     a. Musyawarah Nasional
+    
     b. Musyawarah Nasional Luar Biasa
+    
     c. Rapat Kerja Nasional
 
 2. Struktur APROGSI terdiri dari:
 
     a. Dewan Pengawas
+    
     b. Dewan Pengurus
+    
     c. Dewan Etika
+    
     d. Pengurus Perwakilan Wilayah
+    
     e. Badan Pelaksana Harian
 
 4. APROGSI mempunyai landasan-landasan organisasi dengan tingkat kekuatan yang berurutan sebagai berikut:
 
     a. Undang-Undang Dasar 1945 Negara Republik Indonesia beserta ketentuan-ketentuan perundang-undangan yang bersumber padanya.
+    
     b. Ketetapan-Ketetapan Musyawarah Nasional.
+    
     c. Anggaran Dasar.
+    
     d. Anggaran Rumah Tangga.
+    
     e. Keputusan-Keputusan Rapat Kerja Nasional.
+    
     f. Keputusan-Keputusan Dewan Pengawas.
+    
     g. Keputusan-Keputusan Dewan Pengurus.
 
 5. Suatu perangkat organisasi APROGSI berwenang menilai dan membatalkan suatu landasan organisasi yang dibuat oleh suatu perangkat organisasi APROGSI yang lebih rendah tingkat kedudukannya, apabila landasan tersebut ternyata bertentangan dengan ketentuan yang berlaku.
@@ -172,15 +192,21 @@ Setiap Anggota dapat berhenti dan/atau diberhentikan menjadi anggota:
 5. Musyawarah Nasional berwenang untuk:
 
     a. Menetapkan dan mensahkan penyempurnaan atau perubahan Anggaran Dasar dan Anggaran Rumah Tangga, dan/atau mengamanatkan untuk menetapkan penyempurnaan atau perubahan Anggaran Dasar dan Anggaran Rumah Tangga.
+    
     b. Memberikan penilaian dan keputusan terhadap pertanggungjawaban atas pelaksanaan kerja, keuangan dan perbendaharaan dari Dewan Pengurus serta pertanggungjawaban pelaksanaan tugas dari Dewan Pengurus selama masa kepengurusannya.
+    
     c. Memilih dan menetapkan Dewan Pengawas Dewan Pengurus serta Dewan Etika APROGSI.
+    
     d. Menetapkan garis besar program kerja APROGSI untuk masa 3 (tiga) tahun yang akan datang.
+    
     e. Mengeluarkan keputusan untuk menyelesaikan permasalahan organisasi dan masalah-masalah penting lainnya yang dipandang perlu oleh Musyawarah Nasional dan belum tercakup dalam butir (a), (b), (c) dan (d) tersebut di atas.
 
 6. Musyawarah Nasional Luar Biasa adalah Musyawarah Nasional dapat diselenggarakan apabila ada hal-hal mendesak yang memerlukan keputusan setingkat Musyawarah Nasional dan diselenggarakan atas permintaan tertulis dari:
 
     a. Dewan Pengawas; atau
+    
     b. Dewan Pengurus; atau
+    
     c. Sejumlah Anggota sekurang-kurangnya 51 % (lima puluh satu persen) dari jumlah anggota yang terdaftar dan memiliki suara.
 
 ### PASAL 11 - RAPAT KERJA NASIONAL
@@ -190,9 +216,13 @@ Setiap Anggota dapat berhenti dan/atau diberhentikan menjadi anggota:
 3. Rapat Kerja Nasional berwenang untuk:
 
     a. Melakukan evaluasi terhadap kebijaksanaan pelaksanaan Program Kerja dan Kegiatan APROGSI sesuai amanat Musyawarah Nasional.
+    
     b. Menilai dan menetapkan penyempurnaan atas pelaksanaan rencana kerja yang dijabarkan dalam Program Kerja.
+    
     c. Menilai dan mengusulkan penyempurnaan dan atau penelitian lebih lanjut atas laporan kerja, keuangan dan perbendaharaan yang diajukan oleh Dewan Pengurus.
+    
     d. Membantu Dewan Pengurus untuk memutuskan hal-hal yang tidak dapat diputuskannya sendiri, dan hasilnya dipertanggungjawabkan kepada Musyawarah Nasional.
+    
     e. Mendengar laporan pengawasan dari Dewan Pengawas.
 
 ### PASAL 12 - DEWAN PENGAWAS
@@ -215,10 +245,15 @@ Setiap Anggota dapat berhenti dan/atau diberhentikan menjadi anggota:
 3. Dewan Pengurus berfungsi:
 
     a. Melaksanakan ketetapan-ketetapan perangkat organisasi yang menjadi kewenangannya.
+    
     b. Menerbitkan surat keputusan kolegial APROGSI yang bersifat operasional, tata laksana yang merupakan hasil penjabaran pelaksanaan sesuai dengan perangkat APROGSI dan keputusan rapat anggota lainnya seperti APROGSI Open Policy Meeting, Rapat Dewan Pengurus dan Rapat-rapat lainnya.
+    
     c. Menyusun Rencana Program Kerja Tahunan dan Anggaran Penerimaan & Pengeluaran APROGSI (APPA) yang merupakan jabaran Kebijakan Organisasi yang disahkan oleh Dewan Pengawas.
+    
     d. Menjalankan dan mengkoordinasikan pelaksanaan Program Kerja termasuk Anggaran Penerimaan dan Pengeluaran yang telah disahkan oleh Dewan Pengawas .
+    
     e. Mewakili APROGSI di tingkat nasional dan internasional.
+    
     f. Mewakili APROGSI dalam hal tindakan hukum.
 
 4. Dewan Pengurus mempertanggungjawabkan pelaksanaan fungsinya kepada Musyawarah Nasional pada akhir masa jabatannya atau bilamana Musyawarah Nasional menghendakinya.
@@ -258,12 +293,19 @@ Setiap Anggota dapat berhenti dan/atau diberhentikan menjadi anggota:
 8. Pembagian Perwakilan Wilayan dibagi berdasarkan regional berikut ini.
 
     a. Regional I : Aceh, Sumatera Utara, Sumatera Barat, Kep. Riau
+    
     b. Regional II : Jambi, Sumatera Selatan, Lampung
+    
     c. Regional III : Pulau Kalimantan
+    
     d. Regional IV : Banten, Jawa Barat, D.K.I Jakarta
+    
     e. Regional V : Jawa Tengah, D.I.Yogyakarta
+    
     f. Regional VI : Jawa Timur, Bali, Nusra
+    
     g. Regional VII : Pulau Sulawesi & Kep. Maluku
+    
     h. Regional IX : Pulau Papua
 
 9. Pengurangan ataupun penambahan perwakilan wilayan akan diatur lebih lanjut pada Anggaran Rumah Tangga APROGSI
@@ -274,7 +316,9 @@ Setiap Anggota dapat berhenti dan/atau diberhentikan menjadi anggota:
 2. Merupakan badan pelaksana operasional APROGSI, yang berfungsi:
 
     a. Menyelenggarakan pelaksanaan teknis harian tugas kepengurusan APROGSI.
+    
     b. Menjaga kesinambungan jalannya tugas-tugas administrasi organisasi APROGSI dari satu masa kepengurusan masa kepengurusan berikutnya.
+    
     c. Menyelenggarakan Layanan Open Source Resources.
 
 3. Badan Pelaksana Harian terdiri dari tenaga-tenaga yang bekerja penuh bagi APROGSI dan dibayar oleh APROGSI berdasarkan surat perjanjian kerja.
@@ -288,8 +332,11 @@ Setiap Anggota dapat berhenti dan/atau diberhentikan menjadi anggota:
 1. Perbendaharaan APROGSI terdiri dari:
 
     a. Uang tunai, saldo bank dan surat-surat berharga lainnya.
+    
     b. Barang bergerak maupun tidak bergerak yang terdaftar dan tercatat sebagai milik APROGSI.
+    
     c. Piutang-piutang
+    
     d. Segala aset yang sah yang dikelola oleh APROGSI.
 
 ### PASAL 17 - SUMBER KEUANGAN
@@ -297,11 +344,17 @@ Setiap Anggota dapat berhenti dan/atau diberhentikan menjadi anggota:
 1. Keuangan berasal dari:
 
     a. Uang Pangkal Anggota
+    
     b. Uang Iuran Anggota
+    
     c. Uang Iuran Penggunaan layanan
+    
     d. Uang hasil kegiatan APROGSI secara langsung dan tidak langsung
+    
     e. Uang sumbangan yang tidak mengikat dan sah
+    
     f. Uang hasil penjualan perangkat lunak, jasa, barang bergerak maupun tidak bergerak secara sah.
+    
     g. Uang yang beasal dari piutang organisasi
 
 2. Besarnya Uang Pangkal dan Uang Iuran ditetapkan melalui surat keputusan yang ditandatangani oleh Dewan Pengurus.

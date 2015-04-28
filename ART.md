@@ -68,12 +68,19 @@ Untuk menjadi Dewan Pengurus Asosiasi harus memenuhi persyaratan-persyaratan seb
 2. Tugas, kewajiban, dan kewenangan Dewan Pengurus antara lain :
 
     a. Melaksanakan segala usaha untuk mencapai tujuan Asosiasi;
+
     b. Memelihara segala kekayaaan Asosiasi;
+
     c. Menjaga dan mengusahakan kerukunan dan kekompakan Asosiasi;
+
     d. Menyelenggarakan Musyawarah Nasional/ Luar Biasa, Rapat Kerja Nasional, rapat-rapat atau petemuan-pertemuan lain yang dianggap perlu;
+
     e. Melaksanakan tugas yang dibebankan oleh Musyawarah Nasional/ Luar Biasa dan Rapat Kerja Nasional;
+
     f. Mengambil kebijaksanaan-kebijaksanaan dalam rangka menjalankan Asosiasi;
+
     g. Mengambil segala tindakan sepanjang tidak termasuk wewenang Musyawarah Nasional/ Luar Biasa;
+
     h. Memberikan pertanggungjawaban kepada Musyawarah Nasional/ Luar Biasa dan Rapat Kerja Nasional.
 
 ### Pasal 8 - Pemberhentian Anggota Dewan Pengurus Asosiasi
@@ -107,8 +114,10 @@ Anggota Dewan Pengurus Asosiasi dapat diberhentikan, apabila:
 1. Musyawarah Nasional diselenggarakan tiap 3 (tahun), Rapat Kerja Nasional diselenggarakan tiap tahun, sedangakn Musyawarah Nasional Luar Biasa diselenggarakan sewaktu-waktu bilamana diperlukan sesuai aturan AD/ART APROGSI.
 2. Musyawarah Nasional/Luar Biasa dan Rapat Kerja Nasional diselenggarakan oleh Dewan Pengurus dengan didampingi oleh Dewan Pengawas serta dihadiri oleh:
 
-    a.  Anggota Asosiasi yang diwakili oleh delegasi dengan jumlah maksimal 3 (tiga) orang;
+    a. Anggota Asosiasi yang diwakili oleh delegasi dengan jumlah maksimal 3 (tiga) orang;
+
     b. Peserta Peninjau dengan mengajukan permintaan menjadi Peninjau dan telah disetujui oleh Penyelenggara; dan
+
     c. Undangan.
 
 3. Musyawarah Nasional/Luar Biasa atau Rapat Kerja Nasional dipimpin oleh Ketua Umum. Apabila Ketua umum berhalangan hadir, maka Ketua Umum dapat menunjuk salah satu Wakil Ketua Umum untuk memimpin musyawarah/rapat.
@@ -119,15 +128,22 @@ Anggota Dewan Pengurus Asosiasi dapat diberhentikan, apabila:
 1. Dalam melaksanakan Musyawarah Nasional/ Luar Biasa, Peserta dapat memilih agenda pokok sebagai berikut:
 
     a. Penetapan visi, misi, dan agenda kerja Asosiasi;
+
     b. Pemilihan, pengangkatan, dan pemberhentian Pengurus atau Pengawas Asosiasi;
+
     c. Penetapan atau perubahan Anggaran Dasar dan/atau Anggaran Rumah Tangga Asosiasi;
+
     d. Pengesahan racangan kebijakan atau peraturan Asosiasi menjadi suatu keputusan/ penetapan;
+
     e. Laporan pertanggungjawaban Pengurus Asosiasi tentang pelaksanaan dan kebijakan Asosiasi, keuangan Asosiasi termasuk pengaturan rencana dan perhitungannya, serta pengesahan laporan Pengurus Asosiasi tentang perjalanan Asosiasi dalam periode pengurusnya.
+
 
 2. Dalam melaksanakan Rapat Kerja Nasional, Peserta dapat memilih agenda pokok sebagai berikut:
 
     a. Laporan pertanggungjawaban Pengurus Asosiasi tentang pelaksanaan dan kebijakan Asosiasi, keuangan Asosiasi termasuk pengaturan rencana dan perhitungannya, serta pengesahan laporan Pengurus Asosiasi tentang perjalanan Asosiasi dalam periode pengurusnya.
+
     b. Penyusunan Rencana Kerja dan Anggaran Tahunan Asosiasi untuk tahun berikutnya.
+
     c. Hal-hal lainnya untuk diketahui dan disepakati dalam Rapat Kerja Nasional.
 
 ### Pasal 13 - Kuorum
@@ -136,6 +152,7 @@ Anggota Dewan Pengurus Asosiasi dapat diberhentikan, apabila:
 2. Dalam hal kuorum sebagaimana dimaksud tidak tercapai, akan diadakan pemanggilan ulang dengan altenatif prosedur sebagai berikut:
 
     a. Menunda rapat selama minimal 1 (satu) jam; atau
+
     b. Melakukan pemanggilan kedua dalam kurun waktu maksimal 7 (tujuh) hari sejak penyelenggaraan rapat pertama yang tata cara pemanggilannya mengacu pada ketentuan Pasal 10 Anggaran Rumah Tangga.
 
 3. Rapat kedua adalah sah jika dihadiri oleh lebih dari 1/3 jumlah Anggota Biasa dan Anggota Pendiri yang kehadirannya dikuasakan kepada Anggota lainnya yang sejenis, yang tata cara pengambilan keputusan tetap mengacu pada ketentuan Pasal 15 Anggaran Rumah Tangga.
