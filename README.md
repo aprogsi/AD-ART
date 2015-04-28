@@ -7,5 +7,5 @@ Jika tidak terbiasa dengan lingkungan Git, bisa menuangkan ide-ide/gagasan di ko
 Anda hanya perlu mendaftar ke GitHub.com menggunakan email yang biasa dipakai berkomunikasi, lalu klik nama dokumen "AD.txt" atau "ART.txt". Kemudian ketikkan komentar Anda di kolom yang sudah disediakan di bagian paling bawah.
 
 Salam,
-Agung Hario
+Team APROGSI.
 https://www.aprogsi.org
