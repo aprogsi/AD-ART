@@ -61,21 +61,18 @@ Asosiasi ini membawa pesan bahwa Programmer adalah sebuah profesi bermartabat. P
     
     b. Anggaran Dasar dan Anggaran Rumah Tangga APROGSI sebagai landasan operasional.
     
-3. APROGSI tidak berpolitik, tidak berafiliasi dengan golongan atau partai politik tertentu, dan bersifat tidak mencari keuntungan material (nirlaba).
+3. APROGSI tidak berpolitik, tidak berafiliasi dengan golongan atau partai politik tertentu, dan bersifat tidak mencari keuntungan (nirlaba, secara organisasi). penjelasan (hasil rapt 28 nop 2105) : secara aktifitas organisasi pada dasarnya tidak mengambil keuntungan, bahwa dikemudian hari organisasi memperoleh profit, dimanfaatkan sebesar besarnya bagi anggota.
 
 ### PASAL 3 - MISI DAN TUJUAN
+Revisi RAPAT tgl 28 nopember 2015 : menjadi VISI DAN MISI
+catatan : peletakan VISI dan MISI Akan dikonsultasikan dengan pakar penyusun AD/ART 
 
-1. APROGSI mempunyai misi:
+1. APROGSI mempunyai VISI:
 
-    a. Mendukung dan mengembangankan Insan Programmer di Indonesia.
+    Menjadikan organisasi yang mandiri dan professional sebagai wadah pemersatu programmer yang berkeahlian, berkemampuan, tanggap terhadap kemajuan teknologi serta menjunjung tinggi kode etik, tertib hukum dalam menjalankan pengabdian usahanya menuju pembangunan ekonomi nasional yang sehat untuk kesejahteraan rakyat, persatuan dan kesatuan bangsa.
     
-    c. Meningkatkan potensi sumber daya manusia dalam bidang teknologi informasi, khususnya di bidang pengembangan piranti lunak (*Software Development*) dan utamanya sistem atau aplikasi berlisensi terbuka (*Open Source*).
-    
-    d. Mengelola potensi sumber daya manusia dalam bidang pengembangan piranti lunak untuk kesejahteraan masyarakat Indonesia dan atau pemerintah Indonesia.
-    
-    e. Menaungi dan memberikan perlindungan kepada sumber daya manusia yang berprofesi sebagai Programmer di mata hukum.
-    
-2. APROGSI mempunyai tujuan:
+2. APROGSI mempunyai MISI:
+kontent untuk MISI akan di diskusikan pada waktu yang akan datang
 
     a. Membantu para anggota dalam menyediakan produk dan jasa yang berkualitas bagi masyarakat Indonesia.
     
